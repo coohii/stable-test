@@ -1,0 +1,19 @@
+{
+    "name": "coohii/stable-test",
+    "description": "vendor-example sample",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Coohii\\StableTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vendor-example",
+            "email": "vendor-example@example.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
