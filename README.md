@@ -1,2 +1,2 @@
 # stable-test
-stable test
+`stable` test
