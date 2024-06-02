@@ -1,8 +1,10 @@
 # stable-test
 `stable` test
 
->&gt; php worker craft:main MainForTest<br />
->  [success] メイン処理クラスの生成に成功しました (MainForTest)
+<pre>
+> php worker craft:main MainForTest<br />
+  [success] メイン処理クラスの生成に成功しました (MainForTest)
+</pre>
 
 <pre>
 > php worker
